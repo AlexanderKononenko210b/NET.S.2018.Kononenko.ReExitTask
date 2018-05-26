@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorCrossword", "GeneratorCrossword\GeneratorCrossword.csproj", "{601C5BBD-3CF4-45C1-A1BE-BF340CF2CA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePL", "ConsolePL\ConsolePL.csproj", "{A368B7D0-E8DD-4FB2-8822-76ABDF98D6A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601C5BBD-3CF4-45C1-A1BE-BF340CF2CA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601C5BBD-3CF4-45C1-A1BE-BF340CF2CA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601C5BBD-3CF4-45C1-A1BE-BF340CF2CA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601C5BBD-3CF4-45C1-A1BE-BF340CF2CA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A368B7D0-E8DD-4FB2-8822-76ABDF98D6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A368B7D0-E8DD-4FB2-8822-76ABDF98D6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A368B7D0-E8DD-4FB2-8822-76ABDF98D6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A368B7D0-E8DD-4FB2-8822-76ABDF98D6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5331DC7E-7791-4077-A1E1-63EEC95CB6C0}
+	EndGlobalSection
+EndGlobal
